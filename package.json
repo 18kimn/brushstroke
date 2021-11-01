@@ -1,0 +1,17 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.7"
+  },
+  "dependencies": {
+    "codexer": "^0.2.2",
+    "d3": "^7.1.1"
+  }
+}
